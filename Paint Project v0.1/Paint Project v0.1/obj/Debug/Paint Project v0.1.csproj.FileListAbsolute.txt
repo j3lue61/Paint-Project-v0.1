@@ -1,0 +1,22 @@
+C:\Users\Salih\source\repos\Paint Project v0.1\Paint Project v0.1\bin\Debug\Paint Project v0.1.exe.config
+C:\Users\Salih\source\repos\Paint Project v0.1\Paint Project v0.1\bin\Debug\Paint Project v0.1.exe
+C:\Users\Salih\source\repos\Paint Project v0.1\Paint Project v0.1\bin\Debug\Paint Project v0.1.pdb
+C:\Users\Salih\source\repos\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint_Project_v0._1.Properties.Resources.resources
+C:\Users\Salih\source\repos\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint Project v0.1.csproj.GenerateResource.cache
+C:\Users\Salih\source\repos\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint Project v0.1.csproj.CoreCompileInputs.cache
+C:\Users\Salih\source\repos\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint Project v0.1.exe
+C:\Users\Salih\source\repos\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint Project v0.1.pdb
+C:\Users\Salih\source\repos\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint_Project_v0._1.mainform.resources
+C:\Users\Salih\source\repos\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint_Project_v0._1.GraphicPanel.resources
+C:\Users\Salih\source\repos\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint Project v0.1.csproj.AssemblyReference.cache
+C:\Users\01\Desktop\Paint Project v0.1\Paint Project v0.1\bin\Debug\Paint Project v0.1.exe.config
+C:\Users\01\Desktop\Paint Project v0.1\Paint Project v0.1\bin\Debug\Paint Project v0.1.exe
+C:\Users\01\Desktop\Paint Project v0.1\Paint Project v0.1\bin\Debug\Paint Project v0.1.pdb
+C:\Users\01\Desktop\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint Project v0.1.csproj.AssemblyReference.cache
+C:\Users\01\Desktop\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint_Project_v0._1.mainform.resources
+C:\Users\01\Desktop\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint_Project_v0._1.GraphicPanel.resources
+C:\Users\01\Desktop\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint_Project_v0._1.Properties.Resources.resources
+C:\Users\01\Desktop\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint Project v0.1.csproj.GenerateResource.cache
+C:\Users\01\Desktop\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint Project v0.1.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint Project v0.1.exe
+C:\Users\01\Desktop\Paint Project v0.1\Paint Project v0.1\obj\Debug\Paint Project v0.1.pdb
